@@ -21,7 +21,7 @@ namespace SampleEmployeeApp.Application.Services
             {
                 ProjectId = timesheetDTO.ProjectId,
                 EmployeeId = timesheetDTO.EmployeeId,
-                Date = timesheetDTO.Date,
+                Date = timesheetDTO.WorkDate,
                 HoursWorked = timesheetDTO.HoursWorked
             };
             var createdTimesheet = await _timesheetRepository.AddTimesheetAsync(employeeId, timesheet);

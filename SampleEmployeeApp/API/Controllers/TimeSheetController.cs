@@ -22,7 +22,7 @@ namespace SampleEmployeeApp.API.Controllers
         }
 
         //POST: api/timesheet/{employeeId}
-        [HttpPost("{employeeId}")]
+        [HttpPost]
         public async Task<IActionResult> AddTimesheet([FromBody] CreateTimesheetDTO timesheetDTO)
         {
             if (!ModelState.IsValid)

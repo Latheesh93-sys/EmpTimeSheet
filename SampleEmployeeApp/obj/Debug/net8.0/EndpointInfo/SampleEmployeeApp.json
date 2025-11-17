@@ -204,20 +204,10 @@
         }
       }
     },
-    "/api/TimeSheet/{employeeId}": {
+    "/api/TimeSheet": {
       "post": {
         "tags": [
           "TimeSheet"
-        ],
-        "parameters": [
-          {
-            "name": "employeeId",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          }
         ],
         "requestBody": {
           "content": {
@@ -238,6 +228,16 @@
             }
           }
         },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "TimeSheet"
+        ],
         "responses": {
           "200": {
             "description": "OK"
@@ -283,18 +283,6 @@
               "format": "int32"
             }
           }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/api/TimeSheet": {
-      "get": {
-        "tags": [
-          "TimeSheet"
         ],
         "responses": {
           "200": {
@@ -412,7 +400,7 @@
             "type": "integer",
             "format": "int32"
           },
-          "date": {
+          "workDate": {
             "type": "string",
             "format": "date-time"
           },

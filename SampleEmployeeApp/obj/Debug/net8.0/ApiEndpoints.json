@@ -122,18 +122,8 @@
   },
   {
     "ContainingType": "SampleEmployeeApp.API.Controllers.TimeSheetController",
-    "Method": "GetAll",
-    "RelativePath": "api/TimeSheet",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "SampleEmployeeApp.API.Controllers.TimeSheetController",
     "Method": "AddTimesheet",
-    "RelativePath": "api/TimeSheet/{employeeId}",
+    "RelativePath": "api/TimeSheet",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -142,13 +132,18 @@
         "Name": "timesheetDTO",
         "Type": "SampleEmployeeApp.Application.DTOs.CreateTimesheetDTO",
         "IsRequired": true
-      },
-      {
-        "Name": "employeeId",
-        "Type": "",
-        "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SampleEmployeeApp.API.Controllers.TimeSheetController",
+    "Method": "GetAll",
+    "RelativePath": "api/TimeSheet",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
