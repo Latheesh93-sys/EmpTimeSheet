@@ -7,11 +7,11 @@ using SampleEmployeeApp.Application.DTOs;
 
 namespace SampleEmployeeApp.Infrastructure.Repositories
 {
-    public class TimesheetRepository : ITimeSheetRepository
+    public class TimeSheetRepository : ITimeSheetRepository
     {
         private readonly ApplicationDbContext _context;
 
-        public TimesheetRepository(ApplicationDbContext context)
+        public TimeSheetRepository(ApplicationDbContext context)
         {
             _context = context;
         }

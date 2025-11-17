@@ -12,7 +12,7 @@ namespace SampleEmployeeApp.Infrastructure.Extensions
             services.AddScoped<IAuthRepository, AuthRepository>();
             services.AddScoped<IEmployeeRepository, EmployeeRepository>();
             services.AddScoped<IProjectRepository, ProjectRepository>();
-            services.AddScoped<ITimeSheetRepository,TimesheetRepository>();
+            services.AddScoped<ITimeSheetRepository,TimeSheetRepository>();
         }
 
         public static void AddServices(this IServiceCollection services)

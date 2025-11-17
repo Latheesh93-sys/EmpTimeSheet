@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|c:\\users\\simelabs\\source\\repos\\sampleemployeeapp\\sampleemployeeapp\\api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|solutionrelative:sampleemployeeapp\\api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|c:\\users\\simelabs\\source\\repos\\sampleemployeeapp\\sampleemployeeapp\\infrastructure\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|solutionrelative:sampleemployeeapp\\infrastructure\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|c:\\users\\simelabs\\source\\repos\\sampleemployeeapp\\sampleemployeeapp\\api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|solutionrelative:sampleemployeeapp\\api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|c:\\users\\simelabs\\source\\repos\\sampleemployeeapp\\sampleemployeeapp\\application\\services\\timesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|solutionrelative:sampleemployeeapp\\application\\services\\timesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|c:\\users\\simelabs\\source\\repos\\sampleemployeeapp\\sampleemployeeapp\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|solutionrelative:sampleemployeeapp\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|c:\\users\\simelabs\\source\\repos\\sampleemployeeapp\\sampleemployeeapp\\domain\\interfaces\\itimesheetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|solutionrelative:sampleemployeeapp\\domain\\interfaces\\itimesheetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|c:\\users\\simelabs\\source\\repos\\sampleemployeeapp\\sampleemployeeapp\\api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|solutionrelative:sampleemployeeapp\\api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|c:\\users\\simelabs\\source\\repos\\sampleemployeeapp\\sampleemployeeapp\\infrastructure\\repositories\\timesheetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|solutionrelative:sampleemployeeapp\\infrastructure\\repositories\\timesheetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|c:\\users\\simelabs\\source\\repos\\sampleemployeeapp\\sampleemployeeapp\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|solutionrelative:sampleemployeeapp\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|c:\\users\\simelabs\\source\\repos\\sampleemployeeapp\\sampleemployeeapp\\application\\interfaces\\itimesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|solutionrelative:sampleemployeeapp\\application\\interfaces\\itimesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|c:\\users\\simelabs\\source\\repos\\sampleemployeeapp\\sampleemployeeapp\\application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|solutionrelative:sampleemployeeapp\\application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|c:\\users\\simelabs\\source\\repos\\sampleemployeeapp\\sampleemployeeapp\\api\\controllers\\timesheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A045FE8-3F04-42F6-BBBD-270D7A7DD8AD}|SampleEmployeeApp\\SampleEmployeeApp.csproj|solutionrelative:sampleemployeeapp\\api\\controllers\\timesheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\API\\Program.cs",
-              "RelativeDocumentMoniker": "SampleEmployeeApp\\API\\Program.cs",
-              "ToolTip": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\API\\Program.cs",
-              "RelativeToolTip": "SampleEmployeeApp\\API\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAwCYAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "SampleEmployeeApp\\Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "SampleEmployeeApp\\Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:55:47.314Z",
+              "WhenOpened": "2025-11-17T10:38:19.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ExceptionHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\API\\Middlewares\\ExceptionHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "SampleEmployeeApp\\API\\Middlewares\\ExceptionHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\API\\Middlewares\\ExceptionHandlingMiddleware.cs",
-              "RelativeToolTip": "SampleEmployeeApp\\API\\Middlewares\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvwsAAAAdAAAAAAAAAA==",
+              "Title": "TimesheetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\Infrastructure\\Repositories\\TimesheetRepository.cs",
+              "RelativeDocumentMoniker": "SampleEmployeeApp\\Infrastructure\\Repositories\\TimesheetRepository.cs",
+              "ToolTip": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\Infrastructure\\Repositories\\TimesheetRepository.cs",
+              "RelativeToolTip": "SampleEmployeeApp\\Infrastructure\\Repositories\\TimesheetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:54:10.189Z",
+              "WhenOpened": "2025-11-17T10:37:30.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITimeSheetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\Domain\\Interfaces\\ITimeSheetRepository.cs",
+              "RelativeDocumentMoniker": "SampleEmployeeApp\\Domain\\Interfaces\\ITimeSheetRepository.cs",
+              "ToolTip": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\Domain\\Interfaces\\ITimeSheetRepository.cs",
+              "RelativeToolTip": "SampleEmployeeApp\\Domain\\Interfaces\\ITimeSheetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:37:05.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\API\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "SampleEmployeeApp\\API\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\API\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "SampleEmployeeApp\\API\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
+              "Title": "TimeSheetService.cs",
+              "DocumentMoniker": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\Application\\Services\\TimeSheetService.cs",
+              "RelativeDocumentMoniker": "SampleEmployeeApp\\Application\\Services\\TimeSheetService.cs",
+              "ToolTip": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\Application\\Services\\TimeSheetService.cs",
+              "RelativeToolTip": "SampleEmployeeApp\\Application\\Services\\TimeSheetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:38:00.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\Application\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "SampleEmployeeApp\\Application\\Interfaces\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\Application\\Interfaces\\IAuthService.cs",
-              "RelativeToolTip": "SampleEmployeeApp\\Application\\Interfaces\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:22:10.581Z",
+              "WhenOpened": "2025-11-17T10:37:03.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\Application\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "SampleEmployeeApp\\Application\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\Application\\Services\\AuthService.cs",
-              "RelativeToolTip": "SampleEmployeeApp\\Application\\Services\\AuthService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwEAAAAAMAAAAAAAAAA==",
+              "Title": "ITimeSheetService.cs",
+              "DocumentMoniker": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\Application\\Interfaces\\ITimeSheetService.cs",
+              "RelativeDocumentMoniker": "SampleEmployeeApp\\Application\\Interfaces\\ITimeSheetService.cs",
+              "ToolTip": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\Application\\Interfaces\\ITimeSheetService.cs",
+              "RelativeToolTip": "SampleEmployeeApp\\Application\\Interfaces\\ITimeSheetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:18:45.106Z",
+              "WhenOpened": "2025-11-17T10:37:01.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProjectController.cs",
-              "DocumentMoniker": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\API\\Controllers\\ProjectController.cs",
-              "RelativeDocumentMoniker": "SampleEmployeeApp\\API\\Controllers\\ProjectController.cs",
-              "ToolTip": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\API\\Controllers\\ProjectController.cs",
-              "RelativeToolTip": "SampleEmployeeApp\\API\\Controllers\\ProjectController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAcwD0AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "TimeSheetController.cs",
+              "DocumentMoniker": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\API\\Controllers\\TimeSheetController.cs",
+              "RelativeDocumentMoniker": "SampleEmployeeApp\\API\\Controllers\\TimeSheetController.cs",
+              "ToolTip": "C:\\Users\\Simelabs\\source\\repos\\SampleEmployeeApp\\SampleEmployeeApp\\API\\Controllers\\TimeSheetController.cs",
+              "RelativeToolTip": "SampleEmployeeApp\\API\\Controllers\\TimeSheetController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:02:36.199Z",
+              "WhenOpened": "2025-11-17T10:36:54.112Z",
               "EditorCaption": ""
             }
           ]
