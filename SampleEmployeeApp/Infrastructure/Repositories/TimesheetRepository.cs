@@ -40,6 +40,7 @@ namespace SampleEmployeeApp.Infrastructure.Repositories
                     EmployeeName = t.Employee.Name,
                     ProjectName = t.Project.Name,
                     Date = t.Date,
+                    Description= t.Description,
                     HoursWorked = t.HoursWorked
                 })
                 .FirstOrDefaultAsync();
@@ -66,8 +67,11 @@ namespace SampleEmployeeApp.Infrastructure.Repositories
                 {
                     Id = t.Id,
                     EmployeeName = t.Employee.Name,
+                    ProjectId=t.Project.Id,
                     ProjectName = t.Project.Name,
                     Date = t.Date,
+                    IsApproved = t.IsApproved,
+                    Description= t.Description,
                     HoursWorked = t.HoursWorked
                 })
                 .ToListAsync();

@@ -8,5 +8,12 @@ namespace SampleEmployeeApp.Application.Interfaces
         Task<EmpResponseDTO> AddAsync(AddEmployeeDTO employeeDTO);
         Task<Employee?> GetByIdAsync(int id);
         Task<IEnumerable<Employee>> GetAllAsync();
+
+        Task<PaginatedResult<Employee>> GetPaginatedResultAsync(string name,
+        string designation,
+        string sortBy,
+        string sortOrder,
+        int page,
+        int pageSize);
     }
 }

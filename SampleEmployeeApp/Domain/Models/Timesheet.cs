@@ -1,4 +1,6 @@
-﻿namespace SampleEmployeeApp.Domain.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace SampleEmployeeApp.Domain.Models
 {
     public class Timesheet
     {
@@ -9,6 +11,9 @@
         public Project Project { get; set; } = null!;
         public DateTime Date { get; set; }
         public double HoursWorked { get; set; }
+
+        [MaxLength(500)] 
+        public string Description { get; set; }
 
         public bool IsApproved { get; set; } = false;
 

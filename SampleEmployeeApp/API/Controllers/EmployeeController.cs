@@ -63,5 +63,18 @@ namespace SampleEmployeeApp.API.Controllers
             _memoryCache.Remove(EmployeesCacheKey);
             return Ok(createdEmployee);
         }
+
+        [HttpGet("paginated")]
+        public async Task<IActionResult> GetFiltered(
+        [FromQuery] string? name,
+        [FromQuery] string? designation,
+        [FromQuery] string? sortBy,
+        [FromQuery] string? sortOrder,
+        [FromQuery] int pageNumber = 1,
+        [FromQuery] int pageSize = 10)
+        {
+            var result = await _employeeService.GetPaginatedResultAsync(name,designation, sortBy, sortOrder, pageNumber, pageSize);
+            return Ok(result);
+        }
     }
 }

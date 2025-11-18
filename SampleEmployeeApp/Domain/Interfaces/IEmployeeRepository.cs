@@ -1,4 +1,5 @@
-﻿using SampleEmployeeApp.Domain.Models;
+﻿using SampleEmployeeApp.Application.DTOs;
+using SampleEmployeeApp.Domain.Models;
 
 namespace SampleEmployeeApp.Domain.Interfaces
 {
@@ -7,5 +8,12 @@ namespace SampleEmployeeApp.Domain.Interfaces
         Task<Employee> AddAsync(Employee employee);
         Task<Employee?> GetByIdAsync(int id);
         Task<IEnumerable<Employee>> GetAllAsync();
+
+        Task<PaginatedResult<Employee>> GetPaginatedResultAsync(string name,
+        string designation,
+        string sortBy,
+        string sortOrder,
+        int page,
+        int pageSize);
     }
 }

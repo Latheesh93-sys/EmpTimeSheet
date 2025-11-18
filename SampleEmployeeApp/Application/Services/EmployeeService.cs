@@ -44,5 +44,16 @@ namespace SampleEmployeeApp.Application.Services
         {
             return await _employeeRepository.GetAllAsync();
         }
+
+        public async Task<PaginatedResult<Employee>> GetPaginatedResultAsync(string name,
+        string designation,
+        string sortBy,
+        string sortOrder,
+        int page,
+        int pageSize)
+        {
+            return await _employeeRepository.GetPaginatedResultAsync(name,designation,sortBy,sortOrder,page,pageSize);
+        }
+
     }
 }
